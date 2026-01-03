@@ -1,0 +1,34 @@
+{
+  "account_id": 52201588,
+  "terminal_info": {
+    "build": 5430,
+    "codepage": 0,
+    "commondata_path": "C:\\Users\\AlexIslander\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common",
+    "community_account": true,
+    "community_balance": 0.0,
+    "community_connection": true,
+    "company": "IC Markets (EU) Ltd",
+    "connected": true,
+    "data_path": "C:\\Users\\AlexIslander\\AppData\\Roaming\\MetaQuotes\\Terminal\\4B1CE69F577705455263BD980C39A82C",
+    "dlls_allowed": true,
+    "email_enabled": false,
+    "ftp_enabled": false,
+    "language": "English",
+    "maxbars": 100000,
+    "mqid": false,
+    "name": "MetaTrader 5 IC Markets EU",
+    "notifications_enabled": false,
+    "path": "C:\\Program Files\\MetaTrader 5 IC Markets EU",
+    "ping_last": 0,
+    "retransmission": 0.0,
+    "trade_allowed": true,
+    "tradeapi_disabled": false
+  },
+  "terminal_path": "C:\\Program Files\\MetaTrader 5 IC Markets EU\\terminal64.exe",
+  "timestamp": "2026-01-03T08:08:46.061076+00:00",
+  "version": {
+    "build": 5430,
+    "date": "14 Nov 2025",
+    "version": 500
+  }
+}
