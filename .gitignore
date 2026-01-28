@@ -20,3 +20,5 @@ files
 # Ignores EA binary files.
 *.ex4
 *.ex5
+simple/venv_win
+vwenv
